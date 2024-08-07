@@ -1,6 +1,6 @@
 //Sherlyn Tiwari
 //Prn: 23070123119
-//experiment 1: calculator 
+//Experiment 1: calculator 
 
 #include <iostream>
 using namespace std;
