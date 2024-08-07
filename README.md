@@ -66,7 +66,7 @@ int main() {
 ```
 
 Output:
-![image](https://github.com/user-attachments/assets/430265ab-1b23-4203-b523-290f8e1de046)
+
 
 Calculator:
 ```
