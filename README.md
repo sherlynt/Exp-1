@@ -65,7 +65,8 @@ int main() {
 }
 ```
 
-Output:
+Output:![image](https://github.com/user-attachments/assets/3fc2259e-d466-4b2a-9f35-e963deee721e)
+
 
 
 Calculator:
@@ -91,7 +92,8 @@ int main()
    
 }
 ```
-Output:
+Output: ![image](https://github.com/user-attachments/assets/690ebeb5-4f2d-471d-8d0b-51c46ff74848)
+
 
 
 CONCLUSION:
